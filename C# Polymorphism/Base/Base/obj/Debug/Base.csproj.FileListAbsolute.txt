@@ -1,0 +1,7 @@
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\bin\Debug\Base.exe.config
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\bin\Debug\Base.exe
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\bin\Debug\Base.pdb
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\obj\Debug\Base.exe
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\obj\Debug\Base.pdb
+D:\.NET\Object-Oriented Programming\C# Polymorphism\Base\Base\obj\Debug\Base.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\bin\Debug\Interface.exe.config
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\bin\Debug\Interface.exe
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\bin\Debug\Interface.pdb
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\obj\Debug\Interface.exe
+D:\.NET\Object-Oriented Programming\C# Abstraction\Interface\Interface\obj\Debug\Interface.pdb

@@ -1,0 +1,7 @@
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\obj\Debug\Aggregation.pdb
+D:\.NET\Object-Oriented Programming\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
